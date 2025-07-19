@@ -13,7 +13,7 @@
 *MENTOR*:NEELA SANTOSH
 
 
-A comprehensive Chrome extension prototype for tracking website usage time and providing detailed productivity analytics. This application helps users understand their browsing habits and improve their digital productivity.
+# *A comprehensive Chrome extension prototype for tracking website usage time and providing detailed productivity analytics. This application helps users understand their browsing habits and improve their digital productivity. #*
 
 ## 🚀 Features
 
