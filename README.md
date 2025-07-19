@@ -1,6 +1,16 @@
 # CHROME-EXTENSION-FOR-TIME-TRACKING-AND-PRODUCTIVITY-ANALYTICS
 
+*COMPANY*: CODTECH IT SOLUTIONS
 
+*NAME*: B HASINI
+
+*INTERN ID*: CT06DH1201
+
+*DOMAIN*: Full Stack Web Development
+
+*DURATION*: 6 WEEEKS
+
+*MENTOR*:NEELA SANTOSH
 A comprehensive Chrome extension prototype for tracking website usage time and providing detailed productivity analytics. This application helps users understand their browsing habits and improve their digital productivity.
 
 ## 🚀 Features
